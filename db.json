@@ -3,11 +3,12 @@
         {
           "id": 1,
           "authorName": "mebendito",
-          "authorImage": "delectus aut autem",
+          "authorImage": "https://i1.sndcdn.com/avatars-000200572982-xectnz-t50x50.jpg",
           "title": "delectus aut autem",
-          "url": "delectus aut autem",
+          "url": "gs://lombongo-backend.appspot.com/musics/02- Savage (ft Albi Hendrix).m4a",
           "artistID": "delectus aut autem",
-          "artwork": "delectus aut autem",
+          "artwork": "https://i1.sndcdn.com/artworks-000665136247-pix7g3-t500x500.jpg",
+          "isAlbum": false,
           "numLikes": 54,
           "numReposts": 34,
           "numComments": 34
@@ -15,11 +16,12 @@
         {
           "id": 1,
           "authorName": "mebendito",
-          "authorImage": "delectus aut autem",
+          "authorImage": "https://i1.sndcdn.com/avatars-000200572982-xectnz-t50x50.jpg",
           "title": "delectus aut autem",
-          "url": "delectus aut autem",
+          "url": "gs://lombongo-backend.appspot.com/musics/02- Savage (ft Albi Hendrix).m4a",
           "artistID": "delectus aut autem",
-          "artwork": "delectus aut autem",
+          "artwork": "https://i1.sndcdn.com/artworks-000665136247-pix7g3-t500x500.jpg",
+          "isAlbum": false,
           "numLikes": 54,
           "numReposts": 34,
           "numComments": 34
@@ -27,11 +29,12 @@
         {
           "id": 1,
           "authorName": "mebendito",
-          "authorImage": "delectus aut autem",
+          "authorImage": "https://i1.sndcdn.com/avatars-000200572982-xectnz-t50x50.jpg",
           "title": "delectus aut autem",
-          "url": "delectus aut autem",
+          "url": "gs://lombongo-backend.appspot.com/musics/02- Savage (ft Albi Hendrix).m4a",
           "artistID": "delectus aut autem",
-          "artwork": "delectus aut autem",
+          "artwork": "https://i1.sndcdn.com/artworks-000665136247-pix7g3-t500x500.jpg",
+          "isAlbum": false,
           "numLikes": 54,
           "numReposts": 34,
           "numComments": 34
@@ -39,14 +42,15 @@
         {
           "id": 1,
           "authorName": "mebendito",
-          "authorImage": "delectus aut autem",
+          "authorImage": "https://i1.sndcdn.com/avatars-000200572982-xectnz-t50x50.jpg",
           "title": "delectus aut autem",
-          "url": "delectus aut autem",
+          "url": "gs://lombongo-backend.appspot.com/musics/02- Savage (ft Albi Hendrix).m4a",
           "artistID": "delectus aut autem",
-          "artwork": "delectus aut autem",
+          "artwork": "https://i1.sndcdn.com/artworks-000665136247-pix7g3-t500x500.jpg",
+          "isAlbum": true,
           "numLikes": 54,
-          "numReposts": 34,
-          "numComments": 34
+          "numReposts": 37,
+          "numComments": 31
         }
         
     ]
